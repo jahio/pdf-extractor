@@ -1,0 +1,21 @@
+#
+# EditorConfig: Helps maintain preferences for editing by project
+#   http://editorconfig.org
+#
+
+#
+# This directory is the project root.
+#
+root = true
+
+#
+# Set line endings and ensure new line at end of every document.
+# Set all document encodings to unicode.
+# Set indentation style to 2 spaces.
+#
+[*]
+end_of_line = lf
+insert_final_newline = true
+charset = utf-8
+indent_size = 2
+indent_style = space
